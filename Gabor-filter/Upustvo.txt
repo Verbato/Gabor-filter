@@ -1,0 +1,2 @@
+Potrebno je pokrenuti file racun.m i algoritam ce uraditi detekciju za sliku 
+''Defect_3.jpg" :)
